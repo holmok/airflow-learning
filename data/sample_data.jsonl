@@ -1,0 +1,30 @@
+{"order_id": "ORD-1006", "customer_id": "CUST-007", "order_date": "2026-09-02", "region": "north", "category": "services", "product": "training", "quantity": 1, "unit_price": "750.00"}
+{"order_id": "ORD-1010", "customer_id": "CUST-012", "order_date": "2026-09-03", "region": "west", "category": "hardware", "product": "keyboard", "quantity": 1, "unit_price": "89.99"}
+{"order_id": "ORD-1020", "customer_id": "CUST-011", "order_date": "2026-09-03", "region": "north", "category": "software", "product": "office suite", "quantity": 3, "unit_price": "129.00"}
+{"order_id": "ORD-1015", "customer_id": "CUST-002", "order_date": "2026-09-04", "region": "west", "category": "software", "product": "office suite", "quantity": 4, "unit_price": "129.00"}
+{"order_id": "ORD-1023", "customer_id": "CUST-010", "order_date": "2026-09-04", "region": "south", "category": "software", "product": "ide license", "quantity": 1, "unit_price": "199.00"}
+{"order_id": "ORD-1030", "customer_id": "CUST-001", "order_date": "2026-09-05", "region": "south", "category": "software", "product": "antivirus", "quantity": 5, "unit_price": "49.99"}
+{"order_id": "ORD-1025", "customer_id": "CUST-002", "order_date": "2026-09-06", "region": "south", "category": "software", "product": "antivirus", "quantity": 4, "unit_price": "49.99"}
+{"order_id": "ORD-1028", "customer_id": "CUST-002", "order_date": "2026-09-06", "region": "north", "category": "hardware", "product": "laptop", "quantity": 2, "unit_price": "1299.00"}
+{"order_id": "ORD-1018", "customer_id": "CUST-012", "order_date": "2026-09-12", "region": "west", "category": "software", "product": "antivirus", "quantity": 4, "unit_price": "49.99"}
+{"order_id": "ORD-1022", "customer_id": "CUST-011", "order_date": "2026-09-12", "region": "north", "category": "services", "product": "support plan", "quantity": 4, "unit_price": "250.00"}
+{"order_id": "ORD-1027", "customer_id": "CUST-007", "order_date": "2026-09-12", "region": "west", "category": "software", "product": "office suite", "quantity": 4, "unit_price": "129.00"}
+{"order_id": "ORD-1003", "customer_id": "CUST-002", "order_date": "2026-09-14", "region": "south", "category": "hardware", "product": "laptop", "quantity": 1, "unit_price": "1299.00"}
+{"order_id": "ORD-1004", "customer_id": "CUST-009", "order_date": "2026-09-14", "region": "north", "category": "hardware", "product": "laptop", "quantity": 5, "unit_price": "1299.00"}
+{"order_id": "ORD-1007", "customer_id": "CUST-005", "order_date": "2026-09-14", "region": "north", "category": "services", "product": "onboarding", "quantity": 5, "unit_price": "500.00"}
+{"order_id": "ORD-1014", "customer_id": "CUST-009", "order_date": "2026-09-16", "region": "south", "category": "services", "product": "support plan", "quantity": 4, "unit_price": "250.00"}
+{"order_id": "ORD-1029", "customer_id": "CUST-001", "order_date": "2026-09-16", "region": "west", "category": "services", "product": "onboarding", "quantity": 2, "unit_price": "500.00"}
+{"order_id": "ORD-1008", "customer_id": "CUST-005", "order_date": "2026-09-18", "region": "west", "category": "hardware", "product": "keyboard", "quantity": 2, "unit_price": "89.99"}
+{"order_id": "ORD-1002", "customer_id": "CUST-006", "order_date": "2026-09-19", "region": "north", "category": "services", "product": "onboarding", "quantity": 5, "unit_price": "500.00"}
+{"order_id": "ORD-1001", "customer_id": "CUST-007", "order_date": "2026-09-21", "region": "north", "category": "software", "product": "ide license", "quantity": 1, "unit_price": "199.00"}
+{"order_id": "ORD-1005", "customer_id": "CUST-011", "order_date": "2026-09-21", "region": "west", "category": "hardware", "product": "laptop", "quantity": 1, "unit_price": "1299.00"}
+{"order_id": "ORD-1009", "customer_id": "CUST-010", "order_date": "2026-09-21", "region": "north", "category": "hardware", "product": "keyboard", "quantity": 3, "unit_price": "89.99"}
+{"order_id": "ORD-1011", "customer_id": "CUST-008", "order_date": "2026-09-22", "region": "west", "category": "services", "product": "onboarding", "quantity": 4, "unit_price": "500.00"}
+{"order_id": "ORD-1013", "customer_id": "CUST-003", "order_date": "2026-09-23", "region": "north", "category": "software", "product": "ide license", "quantity": 1, "unit_price": "199.00"}
+{"order_id": "ORD-1024", "customer_id": "CUST-003", "order_date": "2026-09-24", "region": "north", "category": "hardware", "product": "monitor", "quantity": 4, "unit_price": "349.50"}
+{"order_id": "ORD-1017", "customer_id": "CUST-002", "order_date": "2026-09-25", "region": "west", "category": "hardware", "product": "keyboard", "quantity": 5, "unit_price": "89.99"}
+{"order_id": "ORD-1019", "customer_id": "CUST-002", "order_date": "2026-09-27", "region": "north", "category": "services", "product": "support plan", "quantity": 3, "unit_price": "250.00"}
+{"order_id": "ORD-1021", "customer_id": "CUST-011", "order_date": "2026-09-27", "region": "south", "category": "services", "product": "training", "quantity": 3, "unit_price": "750.00"}
+{"order_id": "ORD-1026", "customer_id": "CUST-003", "order_date": "2026-09-27", "region": "south", "category": "services", "product": "support plan", "quantity": 5, "unit_price": "250.00"}
+{"order_id": "ORD-1012", "customer_id": "CUST-010", "order_date": "2026-09-30", "region": "south", "category": "software", "product": "antivirus", "quantity": 3, "unit_price": "49.99"}
+{"order_id": "ORD-1016", "customer_id": "CUST-003", "order_date": "2026-09-30", "region": "south", "category": "hardware", "product": "monitor", "quantity": 4, "unit_price": "349.50"}

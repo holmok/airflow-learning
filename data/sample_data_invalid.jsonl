@@ -1,0 +1,6 @@
+{"order_id": "ORD-1006", "customer_id": "CUST-007", "order_date": "2026-09-02", "region": "north", "category": "services", "product": "training", "quantity": 1, "unit_price": "750.00"}
+{"order_id": "ORD-9001", "customer_id": "CUST-012", "order_date": "2026-09-03", "region": "west", "category": "hardware", "product": "keyboard", "quantity": -2, "unit_price": "89.99"}
+{"order_id": "ORD-9002", "customer_id": "CUST-011", "order_date": "2026-09-03", "category": "software", "product": "office suite", "quantity": 3, "unit_price": "129.00"}
+{"order_id": "ORD-9003", "customer_id": "CUST-002", "order_date": "2026-13-45", "region": "west", "category": "software", "product": "office suite", "quantity": 4, "unit_price": "129.00"}
+{"order_id": "ORD-9004", "customer_id": "CUST-010", "order_date": "2026-09-04", "region": "south", "category": "furniture", "product": "ide license", "quantity": 1, "unit_price": "199.00"}
+{"order_id": "ORD-1030", "customer_id": "CUST-001", "order_date": "2026-09-05", "region": "south", "category": "software", "product": "antivirus", "quantity": 5, "unit_price": "49.99"}
